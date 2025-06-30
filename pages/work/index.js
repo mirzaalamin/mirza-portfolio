@@ -34,7 +34,7 @@ const Work = () => {
                 initial="hidden"
                 animate="show"
                 exit="hidden"
-                className='mb-4 max-w-[400px] mx-auto lg:mx-0'>Lorem ipsum dolor sit amet consectetur adipisicing elit. nulla ipsa ex, eligendi.</motion.p>
+                className='mb-4 max-w-[400px] mx-auto lg:mx-0'>A showcase of projects where ideas turned into impactful digital experiences — built with precision, creativity, and code.</motion.p>
             </div>
             {/* Slider  */}
             <motion.div

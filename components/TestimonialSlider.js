@@ -2,10 +2,10 @@
 const testimonialData = [
   {
     image: '/t-avt-1.png',
-    name: 'Anne Smith',
+    name: 'stefanevertz',
     position: 'Customer',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      'He did a great job. We had a super short deadline with a website project and helped us finishing it in time. Thanks a lot.',
   },
   {
     image: '/t-avt-2.png',

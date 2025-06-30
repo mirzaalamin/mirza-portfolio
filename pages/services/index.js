@@ -35,7 +35,7 @@ const Services = () => {
                 initial="hidden"
                 animate="show"
                 exit="hidden"
-                className='mb-4 max-w-[400px] mx-auto lg:mx-0'>Lorem ipsum dolor sit amet consectetur adipisicing elit. nulla ipsa ex, eligendi.</motion.p>
+                className='mb-4 max-w-[400px] mx-auto lg:mx-0'>I offer end-to-end web development solutions—from modern, responsive websites to custom WordPress themes and full-stack MERN applications—tailored to meet your business goals with clean, efficient code and user-friendly design.</motion.p>
             </div>
             {/* Slider  */}
             <motion.div

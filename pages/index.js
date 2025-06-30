@@ -30,7 +30,7 @@ const Home = () => {
               animate="show"
               exit="hidden"
               className="h1">Transforming ideas <br /> Into {' '} <span className='text-accent'>
-                Digital Reality
+                Vision to Launch
               </span></motion.h1>
             {/* subtitle */}
             <motion.p
@@ -38,7 +38,7 @@ const Home = () => {
               initial="hidden"
               animate="show"
               exit="hidden"
-              className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, deserunt quod dolores tenetur porro soluta. Aliquam voluptatem corrupti eveniet odio?</motion.p>
+              className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'>From startups to agencies, I build fast, reliable, and user-friendly websites that bring ideas to life. Combining the flexibility of WordPress with the power of React & Node.js, I deliver custom solutions that work.</motion.p>
             {/* button */}
             <div className="flex justify-center xl:hidden relative z-10">
               <ProjectsBtn />

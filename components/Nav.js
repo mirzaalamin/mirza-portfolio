@@ -7,6 +7,7 @@ import {
   HiChatBubbleBottomCenterText,
   HiEnvelope,
 } from 'react-icons/hi2';
+import { IoLogoWhatsapp } from "react-icons/io";
 import Link from 'next/link';
 import { useRouter } from 'next/router'
 
@@ -23,8 +24,8 @@ export const navData = [
   },
   {
     name: 'contact',
-    path: '/contact',
-    icon: <HiEnvelope />,
+    path: 'https://wa.me/01821017232',
+    icon: <IoLogoWhatsapp />,
   },
 ];
 

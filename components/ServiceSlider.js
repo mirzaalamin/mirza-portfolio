@@ -9,11 +9,7 @@ import { FreeMode, Pagination } from 'swiper'
 
 // icons
 import {
-  RxCrop,
-  RxPencil2,
-  RxDesktop,
-  RxReader,
-  RxRocket,
+  RxSketchLogo, RxCode, RxMagnifyingGlass, RxMobile,
   RxArrowTopRight,
 } from "react-icons/rx";
 
@@ -21,29 +17,24 @@ import {
 // data
 const serviceData = [
   {
-    icon: <RxCrop />,
+    icon: <RxSketchLogo />,
     title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Creating unique, memorable brands that stand out.',
   },
   {
-    icon: <RxPencil2 />,
-    title: 'Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    icon: <RxCode />,
+    title: 'Web Development',
+    description: 'Building responsive, efficient, and scalable websites.',
   },
   {
-    icon: <RxDesktop />,
-    title: 'Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-  },
-  {
-    icon: <RxReader />,
-    title: 'Copywriting',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-  },
-  {
-    icon: <RxRocket />,
+    icon: <RxMagnifyingGlass />,
     title: 'SEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Optimizing your site to rank higher and attract traffic.',
+  },
+  {
+    icon: <RxMobile />,
+    title: 'Mobile App',
+    description: 'Creating seamless, user-friendly mobile applications.',
   },
 ];
 
