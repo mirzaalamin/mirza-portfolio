@@ -3,16 +3,16 @@ const testimonialData = [
   {
     image: '/t-avt-1.png',
     name: 'stefanevertz',
-    position: 'Customer',
+    position: 'Client',
     message:
       'He did a great job. We had a super short deadline with a website project and helped us finishing it in time. Thanks a lot.',
   },
   {
-    image: '/t-avt-2.png',
-    name: 'Jane Doe',
-    position: 'Customer',
+    image: '/t-avt-3.png',
+    name: 'Tim',
+    position: 'Client',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      "The level of professionalism is superb as always with Mirza. You can be confident he'll get the job done right. 🙂",
   },
   {
     image: '/t-avt-3.png',

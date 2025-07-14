@@ -1,5 +1,5 @@
 import Image from "next/image";
-import heroImage from '../public/avatar.png'
+import heroImage from '../public/mirza.png'
 
 
 const Avatar = () => {
